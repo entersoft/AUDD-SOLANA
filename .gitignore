@@ -1,0 +1,16 @@
+
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+# Dependencies directories
+node_modules
+# Ignore local cluster files
+test-ledger
+.yarn
+
+# ignore keys files
+.keys
+
+# Ignore temp files
+tmp
